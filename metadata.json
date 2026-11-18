@@ -1,0 +1,6 @@
+{
+  "name": "Smart Gas Leak Rescue App",
+  "description": "Smart Gas Leak Rescue & Control Simulator with real-time MQ-2 telemetry, actuator controls, remote SMS/WhatsApp alerts, and online push notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
